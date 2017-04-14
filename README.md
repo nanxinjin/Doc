@@ -1,6 +1,6 @@
 # This repository including my resume and other documents that may help you to know me.
 Name: Nanxin Jin
-Nationality: Chinese
+/n Nationality: Chinese
 Hometown: Beijing, China
 Contact: jinnanxin@gmail.com
 LinkedIn: https://www.linkedin.com/in/nanxin-jin-3b3555b4/
